@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3deb58b-8fe3-40ec-a451-d0fbb5622b38": {
+      "ProjectGuid": "b3deb58b-8fe3-40ec-a451-d0fbb5622b38",
+      "DisplayName": "WF.Sample",
+      "ColorIndex": 0
+    },
+    "a4ece62f-b0a1-47d6-9da6-0446e792f824": {
+      "ProjectGuid": "a4ece62f-b0a1-47d6-9da6-0446e792f824",
+      "DisplayName": "WF.Sample.Business",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
